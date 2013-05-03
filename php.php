@@ -1,5 +1,5 @@
 <?php
-echo "hello word" ;
+echo "hello word" ; /* comment for the next commit */
+// comment
 ?>
-// comment for the next commit
-// Another commit
+
